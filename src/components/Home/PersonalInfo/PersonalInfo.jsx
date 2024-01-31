@@ -14,7 +14,6 @@ import Self from "../../../assets/img/Self.jpg";
 
 const PersonalInfo = () => {
   const desktopView = useMediaQuery((theme) => theme.breakpoints.up("xs"));
-  const xlView = useMediaQuery((theme) => theme.breakpoints.up("xl"));
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true });
   const mainControls = useAnimation();
