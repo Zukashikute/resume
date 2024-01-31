@@ -11,7 +11,7 @@ const AppRoutes = () => {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/resume">
         <Routes>
           {routes.map(({ key, path, element: Element }) => (
             <Route key={key} path={path} element={<Element />} />
