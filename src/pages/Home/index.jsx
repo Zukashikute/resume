@@ -7,11 +7,11 @@ import Skills from "../../components/Home/Skills/Skills";
 import Footer from "../../components/Footer";
 
 const Home = () => {
-  useEffect(() => {
-    window.addEventListener("resize", function () {
-      window.location.reload();
-    });
-  }, []);
+  // useEffect(() => {
+  //   window.addEventListener("resize", function () {
+  //     window.location.reload();
+  //   });
+  // }, []);
 
   return (
     <Box sx={{ height: "100%", background: (theme) => theme.palette.gradient }}>
