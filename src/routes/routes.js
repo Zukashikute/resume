@@ -4,7 +4,7 @@ import Error from "../pages/Error";
 const routes = [
    {
       key: "home",
-      path: "/",
+      path: "/resume",
       element: Home,
    },
    {
