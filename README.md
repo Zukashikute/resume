@@ -1,6 +1,7 @@
 # Online Interactive Resume
 
 - Created this project for easy access of Resume displaying skills in React, MUI theme, and framer-motion.
+- You can access by going to: https://zukashikute.github.io/resume/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
