@@ -1,9 +1,8 @@
 export const Skills = [
-   "Proficient in HTML, CSS, SASS/LESS, Bootstrap, Tailwind CSS, JavaScript, React, etc",
+   "Proficient in HTML, Javascript, CSS, SASS, Bootstrap, ReactJS, Tailwind CSS and more",
+   "Conversant with Render, MongoDB, NodeJs, RESTful APIs, NextJS, PostgreSQL, MySQL, NoSQL, SQL, Typescript",
    "Planning and Time Management",
    "Efficient communicator",
-   "Conversant with Render, MongoDB, and NodeJs, RESTful APIs",
    "Leadership and Team Management",
-   "Exposed on the backend side of developing",
    "JIRA and Trello Management Tool"
 ]
