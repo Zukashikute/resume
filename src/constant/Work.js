@@ -1,5 +1,21 @@
 export const Works = [
   {
+    companyName: "Celerity Studio",
+    workTitle: "Web Developer",
+    workPlace: "Palo Alto, California, USA",
+    startDate: "Jul 2024",
+    endDate: " Sep 2024",
+    workDescription: [
+      "Developed celerity.studio, a dynamic web platform",
+      "Utilized Webflow for frontend design and responsive UI/UX",
+      "Implemented Supabase for backend data management, including real-time data handling and authentication",
+      "Integrated Memberstack for user authentication and membership management, allowing seamless user onboarding and secure access control",
+      "Integrated Make (formerly Integromat) to automate workflows and synchronize processes across various platforms",
+      "Created a secure, scalable, and user-friendly application optimized for performance",
+      "Focused on delivering a modern, fast, and engaging web experience",
+    ],
+  },
+  {
     companyName: "Kynection",
     workTitle: "Support Developer Engineer",
     workPlace: "Seaford, Victoria, Australia",
@@ -9,6 +25,8 @@ export const Works = [
       "Diagnosed app issues and fixed bugs (scripting code) or performance issues in web applications, particularly those related to JavaScript, PHP, jQuery interactions, and SQL database queries for clients",
       "Collaborated with developers to apply changes to new features and enhancements, ensuring seamless integration with existing systems for clients",
       "Provided technical support to users by addressing and resolving their issues, documenting solutions, and offering guidance on best practices",
+      "Utilized Zendesk to manage and prioritize support tickets, ensuring timely responses and tracking the status of issues through resolution",
+      "Ensured customer satisfaction by delivering prompt and efficient support, maintaining clear communication throughout the ticket lifecycle",
     ],
   },
   {
